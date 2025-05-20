@@ -1,0 +1,251 @@
+Transaction_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,Region,Category,Sub-Category,Product_ID,Product_Name,Units_Sold,Unit_Price,Discount (%),Total_Sale_Amount,Payment_Mode,Delivery_Status,Delivery_Date,Customer_Rating,Feedback_Comment
+TXN1000,01/06/2025,CUST754,Donald Walker,Male,19,Pokhara,Smartphone,iPhone 15,PID3286,iPhone 15 512GB,1,222964,0,222964,Credit,Delivered,01/07/2025,1,Quality throughout beautiful instead.
+TXN1001,01/02/2025,CUST323,David Guzman,Male,50,Butwal,Smartphone,iPhone 15,PID9928,iPhone 15 256GB,1,197757,10,177981.3,Cash,Delivered,01/04/2025,4,Current practice nation determine operation speak according.
+TXN1002,01/08/2025,CUST448,Gina Moore,Female,27,Lalitpur,Accessory,MagSafe Charger,PID2519,MagSafe Charger,2,6169,10,11104.2,eSewa,Delivered,01/09/2025,4,Bill here grow gas enough analysis.
+TXN1003,01/23/2025,CUST649,Valerie Gray,Male,42,Kathmandu,Accessory,AirPods Pro,PID4150,AirPods Pro,3,5279,0,15837,Card,Delivered,01/24/2025,2,Fall pick those gun court attorney product.
+TXN1004,01/15/2025,CUST987,Dr. Sharon James,Male,42,Pokhara,Accessory,AirPods Pro,PID3664,AirPods Pro,2,14641,5,27817.9,eSewa,Delivered,01/16/2025,5,Player half have decide environment view possible.
+TXN1005,01/30/2025,CUST750,Kimberly Sanchez,Male,52,Lalitpur,Smartphone,iPhone 13 Mini,PID7216,iPhone 13 Mini 256GB,3,226001,5,644102.85,eSewa,Pending,01/17/2025,1,Here writer policy news range successful simply.
+TXN1006,01/12/2025,CUST334,Renee Morales,Male,38,Biratnagar,Accessory,MagSafe Charger,PID4456,MagSafe Charger,3,26524,10,71614.8,Card,Delivered,01/16/2025,4,Decision wall then fire.
+TXN1007,01/25/2025,CUST246,Thomas Ellis,Female,26,Lalitpur,Accessory,Lightning Cable,PID7543,Lightning Cable,2,10186,5,19353.4,Credit,Delivered,01/26/2025,1,Cause seat much section investment.
+TXN1008,01/29/2025,CUST256,Daniel Bright,Other,28,Biratnagar,Smartphone,iPhone 13 Mini,PID7252,iPhone 13 Mini 512GB,2,218704,10,393667.2,Credit,Pending,01/27/2025,1,Management sense technology check civil quite others.
+TXN1009,01/19/2025,CUST796,Zachary Rice,Other,25,Butwal,Accessory,AirPods Pro,PID2827,AirPods Pro,2,17246,5,32767.4,Khalti,Delivered,01/22/2025,5,Team activity result race Mr environment political.
+TXN1010,01/06/2025,CUST880,Christopher Smith,Male,50,Kathmandu,Accessory,Silicone Case,PID3504,Silicone Case,2,27985,5,53171.5,Credit,Cancelled,01/23/2025,5,Will seven medical blood personal.
+TXN1011,01/25/2025,CUST100,Brittany Farmer,Other,38,Biratnagar,Smartphone,iPhone 15 Pro Max,PID6947,iPhone 15 Pro Max 256GB,1,95184,5,90424.8,Credit,Pending,01/24/2025,1,Well two truth out major born guy.
+TXN1012,01/15/2025,CUST849,David Bradley,Female,22,Butwal,Smartphone,iPhone 15,PID8787,iPhone 15 512GB,1,149483,15,127060.55,Card,Pending,01/25/2025,2,Beat magazine attorney set.
+TXN1013,01/07/2025,CUST830,John Pierce,Female,43,Pokhara,Accessory,Lightning Cable,PID2982,Lightning Cable,1,10362,0,10362,eSewa,Delivered,01/12/2025,2,Month parent who up sense.
+TXN1014,01/10/2025,CUST702,Jennifer Powers,Male,18,Kathmandu,Smartphone,iPhone 15,PID2104,iPhone 15 128GB,2,98574,5,187290.6,eSewa,Delivered,01/12/2025,5,Just military building different full open.
+TXN1015,01/12/2025,CUST235,Adrienne Zimmerman,Other,54,Butwal,Accessory,Silicone Case,PID8749,Silicone Case,2,9239,0,18478,Cash,Delivered,01/15/2025,4,Director town teacher audience.
+TXN1016,01/12/2025,CUST520,John Ryan,Female,21,Kathmandu,Smartphone,iPhone 13 Mini,PID6559,iPhone 13 Mini 128GB,1,130224,5,123712.8,Credit,Delivered,01/16/2025,2,Office drug list imagine behind probably great.
+TXN1017,01/20/2025,CUST385,Nicholas Nunez,Female,33,Kathmandu,Accessory,MagSafe Charger,PID1828,MagSafe Charger,3,20713,0,62139,Cash,Pending,01/17/2025,2,Art rock song body.
+TXN1018,01/10/2025,CUST270,Jerry Henderson,Female,49,Biratnagar,Smartphone,iPhone 13 Mini,PID1960,iPhone 13 Mini 128GB,2,80565,15,136960.5,eSewa,Pending,01/18/2025,4,Leg themselves away space task.
+TXN1019,01/05/2025,CUST392,Zachary Huff,Female,53,Biratnagar,Smartphone,iPhone 15,PID5861,iPhone 15 128GB,1,231828,0,231828,eSewa,Delivered,01/10/2025,4,Unit support coach magazine.
+TXN1020,01/11/2025,CUST614,Stephanie Martin,Other,28,Kathmandu,Smartphone,iPhone 15,PID2122,iPhone 15 512GB,1,141657,15,120408.45,Cash,Pending,01/11/2025,5,World enter six.
+TXN1021,01/23/2025,CUST352,Michael Cross,Other,56,Kathmandu,Smartphone,iPhone 13 Mini,PID9565,iPhone 13 Mini 256GB,2,133545,10,240381,Card,Delivered,01/25/2025,3,Product main couple design around save article.
+TXN1022,01/16/2025,CUST568,Kevin Shaw,Female,22,Kathmandu,Accessory,MagSafe Charger,PID2200,MagSafe Charger,3,9984,10,26956.8,Card,Pending,01/26/2025,1,Church whether bag control organization push dog.
+TXN1023,01/06/2025,CUST350,Laura Riley,Female,36,Lalitpur,Accessory,AirPods Pro,PID9666,AirPods Pro,1,24884,10,22395.6,Cash,Pending,01/27/2025,2,People information on.
+TXN1024,01/26/2025,CUST370,Dean Santiago,Male,24,Butwal,Smartphone,iPhone 14,PID5616,iPhone 14 512GB,1,169884,5,161389.8,eSewa,Delivered,01/29/2025,1,Draw how public feel first sell.
+TXN1025,01/04/2025,CUST194,Marc Hart,Other,45,Pokhara,Smartphone,iPhone 15 Pro Max,PID6464,iPhone 15 Pro Max 128GB,3,148670,5,423709.5,Khalti,Delivered,01/08/2025,5,Available defense enter value.
+TXN1026,01/04/2025,CUST109,Jaclyn Moore,Male,22,Lalitpur,Smartphone,iPhone 14,PID3426,iPhone 14 256GB,1,90965,10,81868.5,eSewa,Pending,01/09/2025,1,Region particularly would pressure account stage federal.
+TXN1027,01/06/2025,CUST466,Brandy Wilson,Male,33,Kathmandu,Accessory,Lightning Cable,PID3532,Lightning Cable,1,8324,5,7907.8,Khalti,Delivered,01/09/2025,4,Score choice example decision.
+TXN1028,01/17/2025,CUST921,Mark Baker,Other,33,Pokhara,Smartphone,iPhone 15 Pro Max,PID7267,iPhone 15 Pro Max 128GB,2,138309,5,262787.1,Khalti,Delivered,01/19/2025,2,Economy traditional anything plant stop analysis four.
+TXN1029,01/07/2025,CUST124,Deborah Figueroa,Other,30,Biratnagar,Accessory,AirPods Pro,PID2137,AirPods Pro,2,14506,15,24660.2,Credit,Delivered,01/08/2025,1,Relationship night born war real chance along.
+TXN1030,01/18/2025,CUST998,Brittany Anderson,Female,29,Butwal,Accessory,MagSafe Charger,PID2776,MagSafe Charger,3,17239,10,46545.3,eSewa,Delivered,01/23/2025,1,Half value win always group.
+TXN1031,01/13/2025,CUST494,Heather Castro,Other,30,Pokhara,Smartphone,iPhone 13 Mini,PID1027,iPhone 13 Mini 512GB,3,131651,10,355457.7,Khalti,Delivered,01/16/2025,5,Wind see understand door class son.
+TXN1032,01/09/2025,CUST421,Allison Doyle,Other,25,Pokhara,Accessory,Lightning Cable,PID6344,Lightning Cable,2,25846,10,46522.8,Credit,Delivered,01/13/2025,4,Site in prove same easy city.
+TXN1033,01/06/2025,CUST793,Andrew Ruiz,Other,29,Butwal,Accessory,Lightning Cable,PID9977,Lightning Cable,1,12957,10,11661.3,Card,Delivered,01/11/2025,5,Staff least figure somebody dinner.
+TXN1034,01/02/2025,CUST770,Jennifer Ramirez,Female,47,Biratnagar,Accessory,Silicone Case,PID9375,Silicone Case,2,29009,5,55117.1,Cash,Delivered,01/07/2025,3,Whom evidence political hundred.
+TXN1035,01/27/2025,CUST195,Alexander Wiley,Male,37,Lalitpur,Smartphone,iPhone 15,PID1400,iPhone 15 128GB,1,204554,0,204554,Khalti,Delivered,02/01/2025,2,Condition while enter board its.
+TXN1036,01/16/2025,CUST835,William Wilson,Other,42,Biratnagar,Accessory,Silicone Case,PID3417,Silicone Case,3,25532,0,76596,Cash,Delivered,01/18/2025,2,Couple and job mind southern rather vote.
+TXN1037,01/10/2025,CUST923,Benjamin Beck,Other,51,Biratnagar,Smartphone,iPhone 15,PID2988,iPhone 15 256GB,1,201803,10,181622.7,Khalti,Delivered,01/15/2025,4,Perhaps professional by tonight medical project.
+TXN1038,01/16/2025,CUST950,Edward Martinez,Other,46,Lalitpur,Accessory,Lightning Cable,PID5246,Lightning Cable,1,23894,10,21504.6,Credit,Delivered,01/18/2025,3,Professor here security community notice image.
+TXN1039,01/01/2025,CUST550,Daniel Floyd,Male,36,Lalitpur,Accessory,AirPods Pro,PID6238,AirPods Pro,3,5640,5,16074,Card,Delivered,01/03/2025,2,Pressure let kind degree list top somebody college.
+TXN1040,01/05/2025,CUST165,Matthew Harvey,Female,44,Pokhara,Accessory,Lightning Cable,PID2020,Lightning Cable,1,16767,15,14251.95,Credit,Pending,01/04/2025,1,Stand seem pull different.
+TXN1041,01/10/2025,CUST977,Angel Riggs,Other,42,Biratnagar,Smartphone,iPhone 14,PID5892,iPhone 14 256GB,2,221091,5,420072.9,Khalti,Delivered,01/14/2025,4,Sure authority increase picture create recent manager during.
+TXN1042,01/01/2025,CUST129,Shannon Mcclure,Female,39,Biratnagar,Smartphone,iPhone 13 Mini,PID3091,iPhone 13 Mini 512GB,3,87069,15,222025.95,Credit,Delivered,01/02/2025,1,Despite sound receive let newspaper true.
+TXN1043,01/06/2025,CUST758,Robert Contreras,Female,26,Biratnagar,Smartphone,iPhone 15 Pro Max,PID5262,iPhone 15 Pro Max 256GB,2,135485,15,230324.5,eSewa,Delivered,01/10/2025,3,Other wear through partner rest measure store.
+TXN1044,01/27/2025,CUST870,Christopher Hensley,Female,34,Kathmandu,Accessory,MagSafe Charger,PID9837,MagSafe Charger,1,14467,5,13743.65,Cash,Delivered,01/28/2025,1,Else easy point she miss phone ever.
+TXN1045,01/04/2025,CUST353,Cynthia Rogers,Male,19,Butwal,Smartphone,iPhone 15,PID3068,iPhone 15 256GB,3,109986,5,313460.1,Khalti,Delivered,01/07/2025,2,Ball character him check degree increase former.
+TXN1046,01/23/2025,CUST720,Daniel Fisher,Other,25,Lalitpur,Accessory,MagSafe Charger,PID1420,MagSafe Charger,2,21867,15,37173.9,Khalti,Pending,01/08/2025,2,Watch affect thing offer local wall fear hope.
+TXN1047,01/21/2025,CUST177,Morgan Marsh,Other,58,Lalitpur,Smartphone,iPhone 14,PID2983,iPhone 14 512GB,1,171017,15,145364.45,eSewa,Delivered,01/24/2025,1,Major event magazine home protect.
+TXN1048,01/20/2025,CUST969,Sara Calhoun,Female,49,Kathmandu,Accessory,AirPods Pro,PID8532,AirPods Pro,3,8013,15,20433.15,Card,Delivered,01/23/2025,5,Move trade option production base investment term consider.
+TXN1049,01/13/2025,CUST927,Daniel Murphy,Other,48,Biratnagar,Accessory,AirPods Pro,PID6280,AirPods Pro,1,5839,10,5255.1,Khalti,Delivered,01/17/2025,5,Everything week instead strong like see.
+TXN1050,02/03/2025,CUST724,Mrs. Marie Harrington DDS,Other,42,Pokhara,Smartphone,iPhone 13 Mini,PID6325,iPhone 13 Mini 128GB,2,135605,10,244089,eSewa,Delivered,02/08/2025,3,Wear current after.
+TXN1051,02/08/2025,CUST669,John Wilson,Male,51,Lalitpur,Smartphone,iPhone 15,PID7658,iPhone 15 256GB,3,142999,15,364647.45,Khalti,Delivered,02/09/2025,1,Let eight hard paper white.
+TXN1052,02/06/2025,CUST401,Carla Collins,Male,43,Lalitpur,Accessory,AirPods Pro,PID8753,AirPods Pro,3,20397,10,55071.9,Khalti,Cancelled,02/10/2025,5,Agent find quality when however resource away real.
+TXN1053,02/12/2025,CUST438,Raymond Jefferson,Female,47,Pokhara,Accessory,AirPods Pro,PID4777,AirPods Pro,1,26635,5,25303.25,eSewa,Delivered,02/17/2025,2,South someone not American mouth product attention positive.
+TXN1054,02/01/2025,CUST296,Samantha Garcia,Male,48,Pokhara,Accessory,MagSafe Charger,PID4180,MagSafe Charger,2,10454,10,18817.2,Card,Delivered,02/06/2025,2,Player stock religious itself safe whole.
+TXN1055,02/14/2025,CUST380,Tamara Hampton,Male,21,Butwal,Accessory,Silicone Case,PID9042,Silicone Case,1,3401,10,3060.9,Khalti,Delivered,02/17/2025,2,Itself room environmental system store beautiful think.
+TXN1056,02/12/2025,CUST152,Laura Barnett,Female,48,Kathmandu,Smartphone,iPhone 13 Mini,PID9056,iPhone 13 Mini 128GB,3,245005,0,735015,Card,Delivered,02/17/2025,3,Agreement surface consider deep something future.
+TXN1057,02/14/2025,CUST187,Kellie Lee,Male,25,Butwal,Accessory,Silicone Case,PID9561,Silicone Case,2,17762,15,30195.4,eSewa,Pending,02/18/2025,4,Result major serve real position.
+TXN1058,02/24/2025,CUST412,Alan Phillips,Other,57,Kathmandu,Smartphone,iPhone 15,PID4457,iPhone 15 256GB,3,101282,5,288653.7,Card,Delivered,02/25/2025,2,Reality fill ok list most international.
+TXN1059,02/27/2025,CUST102,Michael Nelson,Female,46,Butwal,Accessory,AirPods Pro,PID1534,AirPods Pro,1,12440,10,11196,Khalti,Delivered,03/01/2025,3,Discover return firm sea week.
+TXN1060,02/09/2025,CUST906,Parker Hill,Other,55,Lalitpur,Accessory,MagSafe Charger,PID9922,MagSafe Charger,1,24221,5,23009.95,eSewa,Pending,03/02/2025,1,With modern executive beyond create dinner conference add.
+TXN1061,02/26/2025,CUST161,Angel Brown,Male,37,Butwal,Accessory,Lightning Cable,PID3037,Lightning Cable,2,25566,10,46018.8,Khalti,Pending,03/03/2025,5,Recently call than make their.
+TXN1062,02/14/2025,CUST652,Jeremiah Lopez,Female,46,Kathmandu,Smartphone,iPhone 13 Mini,PID6280,iPhone 13 Mini 512GB,2,86780,0,173560,Card,Cancelled,03/04/2025,5,Education technology box.
+TXN1063,02/04/2025,CUST701,Benjamin Soto,Male,35,Butwal,Smartphone,iPhone 15,PID8708,iPhone 15 512GB,3,195927,10,529002.9,Card,Cancelled,03/05/2025,4,Charge specific we.
+TXN1064,02/05/2025,CUST750,Bailey Duran DDS,Female,23,Biratnagar,Accessory,Lightning Cable,PID6460,Lightning Cable,2,24958,0,49916,Card,Delivered,02/09/2025,3,Difficult mission late kind team wrong figure perform.
+TXN1065,02/05/2025,CUST778,Christine Clark,Female,53,Kathmandu,Accessory,MagSafe Charger,PID6153,MagSafe Charger,2,13593,0,27186,Khalti,Pending,02/10/2025,1,Church community avoid able.
+TXN1066,02/22/2025,CUST773,Julie Johnson,Other,47,Biratnagar,Smartphone,iPhone 15,PID9494,iPhone 15 256GB,3,210676,15,537223.8,Cash,Delivered,02/27/2025,2,Religious reflect law reach under.
+TXN1067,02/10/2025,CUST394,Joshua Holland,Female,49,Kathmandu,Smartphone,iPhone 15,PID3594,iPhone 15 256GB,3,83584,15,213139.2,Cash,Delivered,02/11/2025,4,Step author coach film see.
+TXN1068,02/15/2025,CUST220,John Torres,Other,27,Biratnagar,Accessory,AirPods Pro,PID7807,AirPods Pro,2,18473,5,35098.7,Khalti,Delivered,02/19/2025,2,Wall matter management ball always it.
+TXN1069,02/16/2025,CUST713,Allison Perez,Other,26,Kathmandu,Accessory,Lightning Cable,PID6568,Lightning Cable,3,11754,0,35262,eSewa,Delivered,02/21/2025,5,Onto again share start office several compare.
+TXN1070,02/26/2025,CUST775,Sydney White,Female,27,Biratnagar,Accessory,AirPods Pro,PID6446,AirPods Pro,3,27997,15,71392.35,Khalti,Pending,02/22/2025,2,Job sport why like impact fly bit claim.
+TXN1071,02/20/2025,CUST814,Donna Landry,Male,54,Biratnagar,Smartphone,iPhone 13 Mini,PID1715,iPhone 13 Mini 256GB,3,203987,15,520166.85,Khalti,Cancelled,02/23/2025,2,Already because education break significant ten stay.
+TXN1072,02/01/2025,CUST607,Kimberly Gutierrez,Male,26,Butwal,Accessory,MagSafe Charger,PID8213,MagSafe Charger,1,20234,15,17198.9,Cash,Delivered,02/05/2025,2,Million performance material kind appear.
+TXN1073,02/13/2025,CUST176,Tanya Kim,Female,34,Pokhara,Accessory,MagSafe Charger,PID6383,MagSafe Charger,3,20485,15,52236.75,eSewa,Delivered,02/17/2025,5,Building win participant dream citizen nearly need.
+TXN1074,02/05/2025,CUST136,Ryan Wilson,Other,22,Lalitpur,Accessory,Silicone Case,PID2480,Silicone Case,2,6225,0,12450,Khalti,Delivered,02/08/2025,1,Positive child usually factor.
+TXN1075,02/14/2025,CUST147,John Kennedy,Female,21,Pokhara,Accessory,AirPods Pro,PID8056,AirPods Pro,1,11001,15,9350.85,Credit,Delivered,02/16/2025,2,Necessary himself two meet these tell everybody.
+TXN1076,02/21/2025,CUST279,Richard Adams,Male,57,Biratnagar,Smartphone,iPhone 13 Mini,PID3344,iPhone 13 Mini 128GB,2,247222,10,444999.6,Khalti,Delivered,02/22/2025,4,Executive fear only.
+TXN1077,02/24/2025,CUST394,Jill Washington,Other,52,Lalitpur,Smartphone,iPhone 13 Mini,PID6661,iPhone 13 Mini 512GB,2,247493,15,420738.1,eSewa,Delivered,02/27/2025,2,Necessary myself lay focus country recently.
+TXN1078,02/19/2025,CUST493,Reginald Williams,Female,24,Lalitpur,Accessory,AirPods Pro,PID5847,AirPods Pro,3,12674,0,38022,Khalti,Delivered,02/24/2025,1,Relate specific history professional star wonder manager.
+TXN1079,02/02/2025,CUST720,Vincent Rivera,Other,49,Pokhara,Smartphone,iPhone 14,PID4588,iPhone 14 512GB,1,242762,10,218485.8,Card,Delivered,02/03/2025,3,Them key moment lead.
+TXN1080,02/07/2025,CUST907,Matthew Moore,Female,20,Butwal,Accessory,Silicone Case,PID2476,Silicone Case,2,13705,15,23298.5,Card,Delivered,02/12/2025,3,Sit enter perhaps however bag forget purpose.
+TXN1081,02/26/2025,CUST643,Eugene Higgins,Other,35,Lalitpur,Accessory,Lightning Cable,PID5835,Lightning Cable,3,14099,0,42297,Khalti,Cancelled,02/13/2025,2,Their along attention piece TV young section.
+TXN1082,02/22/2025,CUST872,Paige Padilla,Male,43,Butwal,Accessory,MagSafe Charger,PID7464,MagSafe Charger,1,11665,0,11665,Khalti,Delivered,02/25/2025,5,Kitchen really tough animal.
+TXN1083,02/03/2025,CUST490,James Thomas,Other,41,Kathmandu,Smartphone,iPhone 13 Mini,PID1410,iPhone 13 Mini 512GB,3,165984,5,473054.4,Cash,Delivered,02/07/2025,3,Include radio conference company participant him raise.
+TXN1084,02/25/2025,CUST764,Briana Murray,Female,25,Lalitpur,Smartphone,iPhone 15 Pro Max,PID5986,iPhone 15 Pro Max 256GB,1,105478,5,100204.1,Credit,Delivered,03/01/2025,3,Least project together let explain.
+TXN1085,02/27/2025,CUST786,Jeremy Reed,Other,52,Biratnagar,Smartphone,iPhone 13 Mini,PID2622,iPhone 13 Mini 256GB,3,186985,10,504859.5,Cash,Delivered,03/01/2025,4,Federal while real lead few yourself table blood.
+TXN1086,02/19/2025,CUST555,Laura Haney,Male,41,Kathmandu,Accessory,AirPods Pro,PID1992,AirPods Pro,2,12040,5,22876,Cash,Pending,03/02/2025,4,Against stop how account ten.
+TXN1087,02/03/2025,CUST193,Natasha Wall,Other,31,Butwal,Smartphone,iPhone 15 Pro Max,PID6464,iPhone 15 Pro Max 128GB,1,228000,5,216600,Cash,Pending,03/03/2025,5,Simply discover soon despite couple.
+TXN1088,02/13/2025,CUST312,Michelle Hopkins,Other,31,Lalitpur,Accessory,Silicone Case,PID1046,Silicone Case,2,7741,5,14707.9,Credit,Delivered,02/15/2025,1,Pick tough position final.
+TXN1089,02/22/2025,CUST776,Jacob Anderson,Male,26,Kathmandu,Accessory,Silicone Case,PID6304,Silicone Case,1,8709,10,7838.1,Cash,Delivered,02/26/2025,5,Force indeed customer skill theory.
+TXN1090,02/18/2025,CUST216,Susan Rivas,Other,22,Biratnagar,Accessory,AirPods Pro,PID9408,AirPods Pro,3,6573,15,16761.15,Credit,Delivered,02/23/2025,1,Trial want whose far that.
+TXN1091,02/06/2025,CUST844,Bernard Webster,Other,51,Pokhara,Accessory,MagSafe Charger,PID1996,MagSafe Charger,2,16160,15,27472,Cash,Delivered,02/10/2025,1,Team right woman whose source.
+TXN1092,02/18/2025,CUST182,James Baker,Female,56,Lalitpur,Smartphone,iPhone 15,PID5505,iPhone 15 512GB,3,233449,10,630312.3,Khalti,Cancelled,02/11/2025,5,Lawyer pull public once.
+TXN1093,02/19/2025,CUST401,David Johnson,Female,50,Butwal,Accessory,MagSafe Charger,PID2874,MagSafe Charger,3,24329,5,69337.65,Khalti,Delivered,02/21/2025,4,Foreign particular positive play less red power.
+TXN1094,02/06/2025,CUST447,Tracy Torres,Female,43,Biratnagar,Smartphone,iPhone 14,PID7992,iPhone 14 256GB,3,146817,10,396405.9,Card,Delivered,02/10/2025,1,Break doctor Mr home he we recent.
+TXN1095,02/27/2025,CUST193,Patrick Moore,Male,23,Biratnagar,Smartphone,iPhone 14,PID3131,iPhone 14 512GB,1,233738,10,210364.2,Cash,Delivered,03/03/2025,1,Pressure street past voice evidence real.
+TXN1096,02/11/2025,CUST394,Trevor Foley,Other,37,Pokhara,Smartphone,iPhone 15,PID3535,iPhone 15 512GB,2,138784,0,277568,eSewa,Pending,03/04/2025,3,Wonder happen top population.
+TXN1097,02/03/2025,CUST217,Colton Martinez,Female,54,Lalitpur,Accessory,MagSafe Charger,PID5381,MagSafe Charger,1,8911,10,8019.9,eSewa,Pending,03/05/2025,3,Begin deep police wife anything four writer.
+TXN1098,02/10/2025,CUST106,Phillip Clark,Male,27,Butwal,Accessory,MagSafe Charger,PID3324,MagSafe Charger,3,23747,0,71241,Cash,Delivered,02/12/2025,4,Spend do similar small other.
+TXN1099,02/14/2025,CUST529,Brianna Anderson,Female,39,Lalitpur,Accessory,AirPods Pro,PID6314,AirPods Pro,3,22537,0,67611,Cash,Delivered,02/19/2025,1,Sometimes body term capital group.
+TXN1100,03/12/2025,CUST790,Alexis Baker,Male,35,Biratnagar,Accessory,Lightning Cable,PID8242,Lightning Cable,2,11951,5,22706.9,Credit,Delivered,03/16/2025,1,Score moment second live.
+TXN1101,03/18/2025,CUST390,Ashley Gordon,Other,55,Biratnagar,Accessory,MagSafe Charger,PID4612,MagSafe Charger,2,22638,0,45276,Cash,Delivered,03/20/2025,2,Analysis situation term miss leader who article look.
+TXN1102,03/20/2025,CUST882,Brian Joseph,Female,36,Pokhara,Smartphone,iPhone 15 Pro Max,PID9149,iPhone 15 Pro Max 512GB,2,126057,5,239508.3,Khalti,Delivered,03/22/2025,5,Available ball part assume every plan.
+TXN1103,03/27/2025,CUST672,Jane Harper,Other,40,Kathmandu,Accessory,MagSafe Charger,PID8147,MagSafe Charger,1,18065,0,18065,eSewa,Delivered,04/01/2025,4,Law painting between reduce table.
+TXN1104,03/27/2025,CUST826,Cindy Hayes,Other,44,Pokhara,Smartphone,iPhone 13 Mini,PID1341,iPhone 13 Mini 256GB,1,242037,15,205731.45,eSewa,Delivered,03/28/2025,2,Including still human role fine.
+TXN1105,03/16/2025,CUST546,Jacqueline Hernandez,Other,43,Butwal,Smartphone,iPhone 13 Mini,PID6083,iPhone 13 Mini 512GB,2,138083,10,248549.4,Card,Delivered,03/17/2025,5,Attack story behavior benefit school speech news.
+TXN1106,03/29/2025,CUST622,Kristina Santiago,Male,40,Pokhara,Smartphone,iPhone 15,PID2684,iPhone 15 128GB,2,131713,5,250254.7,Credit,Delivered,03/30/2025,2,Government program seek test return why.
+TXN1107,03/30/2025,CUST891,Brian Romero,Other,49,Biratnagar,Accessory,AirPods Pro,PID6179,AirPods Pro,1,17410,0,17410,Khalti,Delivered,04/02/2025,3,Prevent difference board suddenly.
+TXN1108,03/18/2025,CUST705,Donald Perez,Male,40,Butwal,Smartphone,iPhone 14,PID8565,iPhone 14 256GB,1,94913,10,85421.7,eSewa,Delivered,03/19/2025,5,Suddenly window stand party poor ago.
+TXN1109,03/13/2025,CUST708,Donald Farmer,Other,42,Biratnagar,Smartphone,iPhone 13 Mini,PID4084,iPhone 13 Mini 256GB,3,204683,5,583346.55,Cash,Delivered,03/16/2025,1,Go consider century price attorney scientist.
+TXN1110,03/02/2025,CUST616,Joseph Bennett,Other,29,Kathmandu,Smartphone,iPhone 13 Mini,PID8199,iPhone 13 Mini 512GB,3,239856,5,683589.6,eSewa,Delivered,03/05/2025,4,Game have return since nothing be apply.
+TXN1111,03/08/2025,CUST518,Amber Miller,Female,56,Kathmandu,Accessory,MagSafe Charger,PID6401,MagSafe Charger,1,21283,15,18090.55,eSewa,Delivered,03/13/2025,2,Product magazine kind event sense box.
+TXN1112,03/21/2025,CUST441,Michael Watkins,Male,55,Lalitpur,Accessory,AirPods Pro,PID7421,AirPods Pro,1,22498,0,22498,eSewa,Delivered,03/24/2025,2,Project animal house out account feeling deep.
+TXN1113,03/07/2025,CUST786,Donna Wilson,Other,51,Kathmandu,Accessory,AirPods Pro,PID1298,AirPods Pro,2,13120,5,24928,Card,Delivered,03/11/2025,2,Section compare herself region matter street south.
+TXN1114,03/04/2025,CUST331,Patrick Graham,Male,27,Kathmandu,Accessory,MagSafe Charger,PID9317,MagSafe Charger,3,27203,0,81609,eSewa,Pending,03/12/2025,5,Tv television office of remember individual boy.
+TXN1115,03/02/2025,CUST234,Carolyn Meza,Other,42,Lalitpur,Smartphone,iPhone 15,PID3712,iPhone 15 512GB,2,91453,15,155470.1,eSewa,Delivered,03/04/2025,4,Story turn because such during open model.
+TXN1116,03/20/2025,CUST725,Nichole Walker,Female,46,Lalitpur,Smartphone,iPhone 14,PID8684,iPhone 14 128GB,2,229532,15,390204.4,Khalti,Delivered,03/24/2025,5,Baby plan most create.
+TXN1117,03/17/2025,CUST640,Tyler Brewer,Female,28,Lalitpur,Smartphone,iPhone 14,PID1854,iPhone 14 512GB,2,177311,0,354622,Credit,Pending,03/25/2025,3,Door chair culture own.
+TXN1118,03/04/2025,CUST185,Raymond Snyder,Male,35,Biratnagar,Smartphone,iPhone 13 Mini,PID2502,iPhone 13 Mini 128GB,2,171641,0,343282,Khalti,Delivered,03/09/2025,3,Service large under north play person ten.
+TXN1119,03/16/2025,CUST341,Barry Ramos,Female,23,Pokhara,Smartphone,iPhone 15 Pro Max,PID6221,iPhone 15 Pro Max 128GB,3,167894,5,478497.9,Card,Delivered,03/20/2025,2,Someone option goal avoid left.
+TXN1120,03/02/2025,CUST877,Ronald Jones,Other,48,Biratnagar,Smartphone,iPhone 15 Pro Max,PID1311,iPhone 15 Pro Max 256GB,1,119195,15,101315.75,Cash,Delivered,03/04/2025,3,Past medical leg never.
+TXN1121,03/02/2025,CUST224,Robert Pearson,Male,33,Biratnagar,Accessory,MagSafe Charger,PID2816,MagSafe Charger,2,22553,0,45106,Credit,Delivered,03/04/2025,3,Painting may whatever late specific study.
+TXN1122,03/05/2025,CUST539,Carrie Wright,Male,57,Pokhara,Smartphone,iPhone 13 Mini,PID4068,iPhone 13 Mini 512GB,3,102443,10,276596.1,Cash,Cancelled,03/05/2025,5,Yard model particular hair truth hold.
+TXN1123,03/17/2025,CUST619,Amy Mccoy,Other,53,Kathmandu,Accessory,Lightning Cable,PID1713,Lightning Cable,3,15677,10,42327.9,eSewa,Delivered,03/20/2025,1,At behind question exist rich prevent.
+TXN1124,03/30/2025,CUST453,Felicia Aguilar,Male,60,Kathmandu,Accessory,Silicone Case,PID1726,Silicone Case,2,20891,10,37603.8,Card,Pending,03/21/2025,4,True financial prevent product.
+TXN1125,03/07/2025,CUST812,Teresa Collins,Female,58,Lalitpur,Smartphone,iPhone 15 Pro Max,PID8498,iPhone 15 Pro Max 128GB,2,132845,0,265690,Card,Pending,03/22/2025,3,Poor foreign campaign reflect water young.
+TXN1126,03/26/2025,CUST417,Michael Romero,Other,43,Butwal,Accessory,AirPods Pro,PID1599,AirPods Pro,3,9262,10,25007.4,eSewa,Pending,03/23/2025,1,Guy Congress degree.
+TXN1127,03/24/2025,CUST986,Zachary Moore,Other,39,Pokhara,Smartphone,iPhone 14,PID8159,iPhone 14 256GB,3,195274,15,497948.7,eSewa,Cancelled,03/24/2025,4,Such big side strong this.
+TXN1128,03/02/2025,CUST808,Sherri Williamson,Female,41,Butwal,Accessory,MagSafe Charger,PID7955,MagSafe Charger,1,17110,5,16254.5,Credit,Delivered,03/03/2025,1,Heavy class story side speak close join improve.
+TXN1129,03/12/2025,CUST435,Lisa Goodwin,Other,36,Pokhara,Accessory,Lightning Cable,PID3730,Lightning Cable,3,17545,10,47371.5,Khalti,Delivered,03/15/2025,5,Doctor dream whole six tough create question.
+TXN1130,03/28/2025,CUST545,Mrs. Diane Reyes,Female,58,Kathmandu,Smartphone,iPhone 13 Mini,PID6952,iPhone 13 Mini 512GB,3,121939,0,365817,Card,Pending,03/16/2025,4,Industry class current painting their appear lose.
+TXN1131,03/19/2025,CUST135,Ashley Singleton,Male,22,Lalitpur,Accessory,AirPods Pro,PID7272,AirPods Pro,3,4061,5,11573.85,Khalti,Pending,03/17/2025,3,Expect several evening town.
+TXN1132,03/08/2025,CUST554,Anna Lozano,Male,54,Lalitpur,Accessory,Lightning Cable,PID6150,Lightning Cable,3,12132,5,34576.2,Cash,Delivered,03/10/2025,4,This us increase how hear history bank.
+TXN1133,03/11/2025,CUST630,Timothy Combs,Female,53,Kathmandu,Accessory,AirPods Pro,PID8311,AirPods Pro,1,23049,10,20744.1,Khalti,Delivered,03/13/2025,1,Social case expert stop receive catch.
+TXN1134,03/23/2025,CUST562,Aaron Miller,Male,46,Kathmandu,Accessory,AirPods Pro,PID2063,AirPods Pro,3,20765,10,56065.5,eSewa,Pending,03/14/2025,2,Democratic change vote participant institution.
+TXN1135,03/14/2025,CUST912,Bryan Allen,Female,50,Lalitpur,Smartphone,iPhone 15,PID3275,iPhone 15 128GB,2,86890,10,156402,Credit,Delivered,03/18/2025,5,Lead book toward others administration middle drop century.
+TXN1136,03/21/2025,CUST232,Harry Duncan,Other,23,Kathmandu,Accessory,Lightning Cable,PID8842,Lightning Cable,3,16460,15,41973,Credit,Delivered,03/24/2025,1,Professor beat window attack.
+TXN1137,03/26/2025,CUST560,Rachel Romero,Female,51,Pokhara,Smartphone,iPhone 15,PID3114,iPhone 15 256GB,3,94526,0,283578,Credit,Delivered,03/28/2025,2,Hospital like player.
+TXN1138,03/19/2025,CUST430,Alan Kramer,Other,32,Pokhara,Accessory,MagSafe Charger,PID5105,MagSafe Charger,1,23809,10,21428.1,Card,Delivered,03/24/2025,5,Drop price billion old series card.
+TXN1139,03/18/2025,CUST195,Robin Thompson,Other,59,Lalitpur,Smartphone,iPhone 15,PID6531,iPhone 15 512GB,1,87437,0,87437,Cash,Pending,03/25/2025,5,Wonder long consider care respond want already.
+TXN1140,03/10/2025,CUST371,Curtis Williams,Other,31,Butwal,Accessory,MagSafe Charger,PID9159,MagSafe Charger,3,20877,10,56367.9,eSewa,Delivered,03/14/2025,3,Middle writer myself education send.
+TXN1141,03/10/2025,CUST564,Scott Williams,Male,21,Lalitpur,Accessory,Lightning Cable,PID8933,Lightning Cable,2,9685,10,17433,Credit,Delivered,03/13/2025,3,Event son join hundred keep what.
+TXN1142,03/17/2025,CUST508,Kathleen Jimenez,Male,41,Butwal,Smartphone,iPhone 14,PID4960,iPhone 14 256GB,1,150116,15,127598.6,Card,Delivered,03/18/2025,3,Entire bar interesting issue yet Congress family.
+TXN1143,03/05/2025,CUST493,Matthew Parker,Other,44,Lalitpur,Smartphone,iPhone 14,PID6123,iPhone 14 128GB,1,210617,15,179024.45,Khalti,Pending,03/19/2025,4,Response coach know language risk treatment past itself.
+TXN1144,03/03/2025,CUST123,Mark Cox,Male,43,Butwal,Accessory,Silicone Case,PID4524,Silicone Case,3,14563,0,43689,Cash,Delivered,03/08/2025,4,Well central parent sit.
+TXN1145,03/02/2025,CUST392,David Brewer,Other,18,Kathmandu,Accessory,Silicone Case,PID5333,Silicone Case,3,14985,15,38211.75,eSewa,Delivered,03/03/2025,5,Him note painting quickly we head.
+TXN1146,03/04/2025,CUST675,Kendra Sanders,Male,41,Butwal,Accessory,MagSafe Charger,PID7329,MagSafe Charger,3,17757,10,47943.9,Credit,Delivered,03/05/2025,2,Economic box save material hit.
+TXN1147,03/28/2025,CUST199,Reginald Padilla,Female,41,Pokhara,Accessory,Silicone Case,PID4261,Silicone Case,3,19682,15,50189.1,Credit,Delivered,03/29/2025,2,You experience trouble make but.
+TXN1148,03/04/2025,CUST830,Steven Wallace,Female,48,Butwal,Accessory,Silicone Case,PID9446,Silicone Case,1,13746,10,12371.4,Card,Delivered,03/09/2025,3,Specific whose worry property.
+TXN1149,03/04/2025,CUST707,Donna Evans,Female,50,Butwal,Accessory,AirPods Pro,PID8780,AirPods Pro,1,15070,10,13563,Cash,Cancelled,03/10/2025,5,Republican until point soldier.
+TXN1150,04/25/2025,CUST415,William Conner,Other,58,Kathmandu,Accessory,AirPods Pro,PID4728,AirPods Pro,3,4682,15,11939.1,Card,Delivered,04/30/2025,4,So ago network hard sound.
+TXN1151,04/27/2025,CUST251,Stephen Jones,Other,33,Kathmandu,Smartphone,iPhone 15,PID1310,iPhone 15 256GB,2,189780,5,360582,Khalti,Delivered,05/01/2025,5,Yourself rest moment shoulder statement available.
+TXN1152,04/16/2025,CUST893,Joanna Frazier,Other,48,Kathmandu,Smartphone,iPhone 15,PID6325,iPhone 15 512GB,2,217750,15,370175,eSewa,Cancelled,05/02/2025,4,Campaign stop necessary onto should can.
+TXN1153,04/25/2025,CUST645,Amy Martinez,Female,52,Pokhara,Accessory,Lightning Cable,PID4150,Lightning Cable,1,12142,10,10927.8,Card,Pending,05/03/2025,3,Fight class various different.
+TXN1154,04/26/2025,CUST889,Sarah King,Female,31,Biratnagar,Accessory,Lightning Cable,PID6714,Lightning Cable,3,29063,10,78470.1,eSewa,Delivered,05/01/2025,4,Ever person pass behavior political option oil.
+TXN1155,04/09/2025,CUST504,Michelle Jacobs,Female,27,Pokhara,Smartphone,iPhone 14,PID2294,iPhone 14 256GB,2,147225,15,250282.5,Card,Delivered,04/14/2025,3,American tell ball we side enough decision.
+TXN1156,04/28/2025,CUST675,Mark Jimenez,Other,35,Lalitpur,Smartphone,iPhone 15,PID4972,iPhone 15 128GB,3,219209,5,624745.65,Card,Delivered,05/02/2025,3,Nation politics few each southern image law read.
+TXN1157,04/08/2025,CUST834,John Harris,Female,24,Lalitpur,Smartphone,iPhone 15,PID7666,iPhone 15 512GB,2,205160,5,389804,eSewa,Delivered,04/09/2025,1,Century technology floor write generation human set middle.
+TXN1158,04/06/2025,CUST767,John Adams,Other,32,Butwal,Smartphone,iPhone 15,PID7846,iPhone 15 128GB,1,184069,15,156458.65,Card,Pending,04/10/2025,3,Cell anything war ten industry.
+TXN1159,04/08/2025,CUST997,Taylor Griffith,Male,18,Pokhara,Smartphone,iPhone 14,PID5662,iPhone 14 256GB,3,222422,15,567176.1,Card,Pending,04/11/2025,4,Several marriage method material final.
+TXN1160,04/02/2025,CUST379,James Bryant,Male,25,Pokhara,Smartphone,iPhone 13 Mini,PID5215,iPhone 13 Mini 512GB,1,83692,10,75322.8,eSewa,Delivered,04/04/2025,2,Democrat good anything manager think.
+TXN1161,04/23/2025,CUST725,Adam Rodriguez,Other,43,Biratnagar,Accessory,MagSafe Charger,PID7567,MagSafe Charger,3,6125,5,17456.25,Card,Delivered,04/25/2025,1,Think road shake hand.
+TXN1162,04/20/2025,CUST367,Justin Cox,Female,33,Biratnagar,Accessory,AirPods Pro,PID5947,AirPods Pro,3,26687,0,80061,eSewa,Delivered,04/22/2025,1,Available mean share evidence writer.
+TXN1163,04/06/2025,CUST783,Brent Brooks,Male,47,Pokhara,Smartphone,iPhone 13 Mini,PID9233,iPhone 13 Mini 512GB,2,110779,10,199402.2,eSewa,Delivered,04/08/2025,2,Newspaper hand certain own husband American.
+TXN1164,04/02/2025,CUST589,Gary Wells,Male,47,Butwal,Accessory,Lightning Cable,PID9998,Lightning Cable,2,27816,5,52850.4,Card,Delivered,04/07/2025,1,Chance throw cause use five hotel pattern.
+TXN1165,04/15/2025,CUST638,Katie Hicks,Female,51,Pokhara,Smartphone,iPhone 15 Pro Max,PID2011,iPhone 15 Pro Max 512GB,3,132994,5,379032.9,Card,Delivered,04/20/2025,4,Remember feel staff happy purpose woman on.
+TXN1166,04/02/2025,CUST219,Deborah Rios,Other,31,Butwal,Accessory,MagSafe Charger,PID9361,MagSafe Charger,2,29499,0,58998,Khalti,Delivered,04/06/2025,4,Officer return on color pick people subject challenge.
+TXN1167,04/12/2025,CUST677,Travis Rodriguez,Male,53,Biratnagar,Accessory,MagSafe Charger,PID7487,MagSafe Charger,2,29753,0,59506,Card,Delivered,04/13/2025,4,Kid industry include.
+TXN1168,04/10/2025,CUST452,Reginald Knapp,Other,22,Butwal,Smartphone,iPhone 15 Pro Max,PID8734,iPhone 15 Pro Max 128GB,2,187182,5,355645.8,Card,Delivered,04/14/2025,3,Relationship million night your.
+TXN1169,04/24/2025,CUST491,Emily Thompson,Female,42,Biratnagar,Smartphone,iPhone 15,PID6697,iPhone 15 128GB,1,220839,15,187713.15,Credit,Delivered,04/26/2025,1,Garden great sign return poor really particular.
+TXN1170,04/10/2025,CUST874,Diana Evans,Male,37,Biratnagar,Accessory,Lightning Cable,PID4762,Lightning Cable,1,18093,10,16283.7,Card,Delivered,04/11/2025,1,Side relate real major look.
+TXN1171,04/28/2025,CUST928,Rebecca Hill,Other,44,Butwal,Smartphone,iPhone 15,PID4376,iPhone 15 128GB,1,235698,0,235698,Khalti,Delivered,04/29/2025,2,Of myself time house.
+TXN1172,04/17/2025,CUST858,Regina Roberts,Male,43,Biratnagar,Smartphone,iPhone 15,PID1924,iPhone 15 128GB,3,155828,5,444109.8,Credit,Delivered,04/22/2025,3,Western bad under pretty section.
+TXN1173,04/11/2025,CUST342,Joshua Fitzpatrick,Female,27,Butwal,Smartphone,iPhone 13 Mini,PID5923,iPhone 13 Mini 256GB,1,225940,5,214643,Khalti,Delivered,04/12/2025,3,Case past only drug prove.
+TXN1174,04/26/2025,CUST758,David Garcia,Other,42,Butwal,Accessory,Lightning Cable,PID7688,Lightning Cable,1,12826,15,10902.1,Card,Delivered,04/30/2025,2,Response beyond side accept nearly upon.
+TXN1175,04/20/2025,CUST969,Shirley Alvarez,Male,37,Lalitpur,Accessory,MagSafe Charger,PID7761,MagSafe Charger,2,21261,5,40395.9,Khalti,Delivered,04/22/2025,3,Sense expert experience arrive shoulder.
+TXN1176,04/28/2025,CUST762,Parker Jefferson,Male,46,Pokhara,Smartphone,iPhone 15,PID1844,iPhone 15 256GB,2,238589,0,477178,Cash,Delivered,05/03/2025,5,Tree company think.
+TXN1177,04/09/2025,CUST322,Amanda Huff,Female,31,Pokhara,Accessory,MagSafe Charger,PID4470,MagSafe Charger,1,27296,0,27296,Khalti,Pending,05/04/2025,5,Control see the face also fear owner.
+TXN1178,04/17/2025,CUST820,William Daniels,Male,43,Lalitpur,Accessory,AirPods Pro,PID7236,AirPods Pro,2,20486,10,36874.8,eSewa,Delivered,04/22/2025,4,Threat care mean evening speak former room.
+TXN1179,04/13/2025,CUST577,Alexis Rogers,Male,48,Pokhara,Smartphone,iPhone 14,PID6126,iPhone 14 256GB,1,227462,5,216088.9,Card,Delivered,04/18/2025,5,Nothing serious compare task today.
+TXN1180,04/21/2025,CUST693,Angie Caldwell,Other,44,Pokhara,Smartphone,iPhone 15,PID6404,iPhone 15 128GB,2,229366,5,435795.4,Khalti,Delivered,04/24/2025,3,Word local very according.
+TXN1181,04/19/2025,CUST881,Paul Finley,Female,59,Biratnagar,Accessory,Silicone Case,PID6770,Silicone Case,1,7586,15,6448.1,Card,Pending,04/25/2025,5,Old of end growth door.
+TXN1182,04/06/2025,CUST757,Christopher Parks,Male,51,Kathmandu,Smartphone,iPhone 15 Pro Max,PID1104,iPhone 15 Pro Max 256GB,1,245334,5,233067.3,Cash,Delivered,04/07/2025,2,Real police wait happen determine.
+TXN1183,04/07/2025,CUST617,Jesse Zhang,Female,41,Kathmandu,Accessory,Lightning Cable,PID1257,Lightning Cable,1,20439,15,17373.15,Cash,Delivered,04/10/2025,5,Indeed near likely Mr professional despite.
+TXN1184,04/13/2025,CUST393,Linda Cobb,Male,50,Biratnagar,Smartphone,iPhone 15 Pro Max,PID2578,iPhone 15 Pro Max 512GB,1,143168,5,136009.6,Credit,Delivered,04/16/2025,3,Land region back nor article natural measure.
+TXN1185,04/28/2025,CUST914,Carmen Bond,Female,23,Pokhara,Accessory,Lightning Cable,PID4984,Lightning Cable,3,10400,10,28080,Cash,Delivered,04/29/2025,1,Break day on before member speak.
+TXN1186,04/23/2025,CUST515,Jason Elliott,Female,42,Butwal,Accessory,MagSafe Charger,PID1154,MagSafe Charger,3,8615,0,25845,Khalti,Pending,04/30/2025,3,Left southern rich how staff second official.
+TXN1187,04/03/2025,CUST679,Michael Weaver,Male,51,Kathmandu,Smartphone,iPhone 15,PID8790,iPhone 15 256GB,1,99489,10,89540.1,Credit,Delivered,04/04/2025,2,Various attorney value all.
+TXN1188,04/20/2025,CUST970,Chad May,Female,19,Lalitpur,Smartphone,iPhone 13 Mini,PID2260,iPhone 13 Mini 256GB,1,227838,5,216446.1,Credit,Pending,04/05/2025,4,Hear through large true help bag.
+TXN1189,04/27/2025,CUST793,Scott Wilson,Other,39,Biratnagar,Smartphone,iPhone 15 Pro Max,PID9204,iPhone 15 Pro Max 512GB,2,94076,0,188152,Khalti,Delivered,04/28/2025,3,Hotel camera without strong series without leg.
+TXN1190,04/27/2025,CUST719,James Hall,Other,56,Biratnagar,Accessory,MagSafe Charger,PID5478,MagSafe Charger,2,19076,5,36244.4,eSewa,Delivered,05/01/2025,4,Get every visit right both special information.
+TXN1191,04/01/2025,CUST290,Austin Wheeler,Other,55,Biratnagar,Smartphone,iPhone 14,PID5037,iPhone 14 512GB,1,101505,10,91354.5,Card,Delivered,04/03/2025,4,Our reflect any scientist I doctor describe.
+TXN1192,04/03/2025,CUST424,Wyatt Young,Female,24,Kathmandu,Smartphone,iPhone 14,PID8286,iPhone 14 256GB,2,106799,5,202918.1,Cash,Delivered,04/07/2025,5,Five our pull fly few century produce.
+TXN1193,04/11/2025,CUST668,Donald Hawkins,Other,44,Kathmandu,Smartphone,iPhone 15 Pro Max,PID6798,iPhone 15 Pro Max 512GB,1,236480,10,212832,Khalti,Delivered,04/15/2025,4,They treatment personal interview many win walk provide.
+TXN1194,04/26/2025,CUST897,Jason Hernandez,Male,53,Lalitpur,Smartphone,iPhone 13 Mini,PID3777,iPhone 13 Mini 128GB,2,158939,10,286090.2,Khalti,Delivered,04/28/2025,4,Contain Mrs drive different tax certain.
+TXN1195,04/23/2025,CUST382,Kristina Faulkner,Female,37,Biratnagar,Smartphone,iPhone 14,PID5123,iPhone 14 128GB,3,243848,15,621812.4,Credit,Delivered,04/27/2025,1,Morning home effort form bad last he.
+TXN1196,04/27/2025,CUST238,Cheryl Adams,Female,18,Biratnagar,Accessory,Lightning Cable,PID6399,Lightning Cable,2,13968,15,23745.6,Credit,Delivered,04/30/2025,5,Owner them could seven right next look thank.
+TXN1197,04/17/2025,CUST811,Terry Lewis,Male,48,Pokhara,Smartphone,iPhone 13 Mini,PID6228,iPhone 13 Mini 256GB,3,245911,15,627073.05,Credit,Delivered,04/20/2025,4,While bring yourself look drug.
+TXN1198,04/10/2025,CUST387,David Morris,Female,41,Kathmandu,Smartphone,iPhone 15,PID1440,iPhone 15 512GB,2,134958,15,229428.6,eSewa,Pending,04/21/2025,1,Herself move grow end mention.
+TXN1199,04/25/2025,CUST938,Robert Bowen,Female,49,Lalitpur,Accessory,Silicone Case,PID5139,Silicone Case,3,8050,15,20527.5,Khalti,Delivered,04/30/2025,4,Trial have including none determine certainly.
+TXN1200,05/13/2025,CUST696,Lauren Cortez,Female,52,Butwal,Accessory,MagSafe Charger,PID6890,MagSafe Charger,3,29617,0,88851,Cash,Delivered,05/16/2025,2,Charge form here street material.
+TXN1201,05/17/2025,CUST762,Roberto Levy,Other,20,Butwal,Accessory,AirPods Pro,PID8052,AirPods Pro,1,3345,0,3345,eSewa,Delivered,05/22/2025,5,Leave run goal cause national contain threat.
+TXN1202,05/03/2025,CUST694,Sara Jones,Other,54,Lalitpur,Accessory,AirPods Pro,PID7408,AirPods Pro,2,28308,5,53785.2,eSewa,Cancelled,05/23/2025,4,Share include successful.
+TXN1203,05/12/2025,CUST207,Chris Robinson,Female,44,Kathmandu,Smartphone,iPhone 15,PID6707,iPhone 15 256GB,2,199362,5,378787.8,Credit,Delivered,05/16/2025,1,Health pay project pattern low maintain according.
+TXN1204,05/27/2025,CUST548,Alan Bowen,Other,46,Pokhara,Smartphone,iPhone 14,PID1732,iPhone 14 512GB,1,85920,10,77328,Cash,Delivered,05/29/2025,2,Within admit spend purpose south travel blood.
+TXN1205,05/05/2025,CUST628,Daisy Harvey,Male,53,Lalitpur,Accessory,Lightning Cable,PID8570,Lightning Cable,1,29140,15,24769,Card,Delivered,05/09/2025,4,Spring environment however health image.
+TXN1206,05/28/2025,CUST129,Michael Evans,Other,57,Lalitpur,Accessory,Lightning Cable,PID7370,Lightning Cable,1,26092,5,24787.4,Card,Delivered,05/29/2025,5,President teach service behavior.
+TXN1207,05/19/2025,CUST204,John Walsh,Other,29,Pokhara,Accessory,Silicone Case,PID8496,Silicone Case,1,11596,15,9856.6,Credit,Cancelled,05/30/2025,3,Bar suddenly population former.
+TXN1208,05/05/2025,CUST711,Tamara Hall,Female,57,Biratnagar,Smartphone,iPhone 14,PID6766,iPhone 14 256GB,3,125227,10,338112.9,Credit,Delivered,05/07/2025,3,Little another avoid understand tonight nor allow.
+TXN1209,05/16/2025,CUST220,Daniel Thomas,Male,37,Kathmandu,Smartphone,iPhone 14,PID3316,iPhone 14 512GB,2,189638,5,360312.2,Credit,Delivered,05/18/2025,4,Up federal nor note support quality.
+TXN1210,05/27/2025,CUST750,Perry Taylor,Other,59,Lalitpur,Smartphone,iPhone 13 Mini,PID5732,iPhone 13 Mini 128GB,1,162465,15,138095.25,Credit,Delivered,05/30/2025,1,May window approach join.
+TXN1211,05/04/2025,CUST596,Randy Friedman,Male,30,Biratnagar,Accessory,Lightning Cable,PID9056,Lightning Cable,2,26269,15,44657.3,Khalti,Delivered,05/09/2025,1,Why for plant situation late direction.
+TXN1212,05/27/2025,CUST914,Jessica Frazier,Male,36,Kathmandu,Accessory,Silicone Case,PID9808,Silicone Case,2,8511,15,14468.7,Credit,Delivered,05/31/2025,5,Beat peace something require bank child.
+TXN1213,05/08/2025,CUST623,Emily Rodriguez,Male,54,Kathmandu,Accessory,AirPods Pro,PID9880,AirPods Pro,1,27903,15,23717.55,Credit,Delivered,05/12/2025,1,Wall know seven.
+TXN1214,05/05/2025,CUST853,Cody Cole,Other,33,Pokhara,Smartphone,iPhone 13 Mini,PID5305,iPhone 13 Mini 256GB,1,195099,0,195099,Card,Delivered,05/10/2025,3,Mention billion bed never others six tell.
+TXN1215,05/01/2025,CUST981,James Miller,Other,57,Biratnagar,Smartphone,iPhone 15,PID4385,iPhone 15 128GB,1,229441,10,206496.9,Credit,Delivered,05/06/2025,2,Toward within occur college herself catch feeling.
+TXN1216,05/24/2025,CUST431,Christopher Hill,Other,36,Pokhara,Accessory,MagSafe Charger,PID3221,MagSafe Charger,2,4942,10,8895.6,Card,Delivered,05/26/2025,2,Machine baby edge east person.
+TXN1217,05/29/2025,CUST249,Judith Taylor,Other,38,Lalitpur,Accessory,Lightning Cable,PID3329,Lightning Cable,3,23722,10,64049.4,Khalti,Delivered,05/30/2025,1,We forward per.
+TXN1218,05/16/2025,CUST512,Jeffrey Colon,Other,35,Pokhara,Accessory,Lightning Cable,PID6362,Lightning Cable,3,3081,0,9243,Khalti,Delivered,05/19/2025,1,Carry fly water cut fire who why fact.
+TXN1219,05/24/2025,CUST914,Rachael Nguyen,Other,43,Lalitpur,Accessory,Silicone Case,PID9105,Silicone Case,2,13579,10,24442.2,eSewa,Delivered,05/26/2025,5,Staff hotel box nor or.
+TXN1220,05/27/2025,CUST972,Randall Johnson,Female,39,Kathmandu,Smartphone,iPhone 15 Pro Max,PID8529,iPhone 15 Pro Max 128GB,1,121414,15,103201.9,Khalti,Delivered,05/31/2025,2,Wall decide something story attorney summer some.
+TXN1221,05/25/2025,CUST805,Eric King,Male,59,Pokhara,Smartphone,iPhone 14,PID2529,iPhone 14 512GB,2,145638,0,291276,eSewa,Delivered,05/27/2025,1,Resource smile available wrong.
+TXN1222,05/24/2025,CUST505,Kimberly Mclean,Other,37,Lalitpur,Accessory,MagSafe Charger,PID2559,MagSafe Charger,1,9993,15,8494.05,Cash,Delivered,05/26/2025,5,Myself so growth time Mr point.
+TXN1223,05/05/2025,CUST796,David Ortega,Female,18,Kathmandu,Accessory,MagSafe Charger,PID7919,MagSafe Charger,3,7331,15,18694.05,Cash,Delivered,05/06/2025,1,Positive and worker quality.
+TXN1224,05/20/2025,CUST205,Erin Hogan,Female,41,Pokhara,Smartphone,iPhone 13 Mini,PID3181,iPhone 13 Mini 512GB,3,117448,0,352344,Credit,Delivered,05/25/2025,2,Action else member million.
+TXN1225,05/29/2025,CUST550,Connie Brooks,Female,31,Lalitpur,Accessory,Lightning Cable,PID4559,Lightning Cable,1,6292,5,5977.4,Cash,Delivered,06/02/2025,3,Sign open matter general agency bit indeed.
+TXN1226,05/05/2025,CUST539,Todd Thomas,Female,26,Lalitpur,Accessory,MagSafe Charger,PID5065,MagSafe Charger,3,22693,10,61271.1,Cash,Pending,06/03/2025,3,Gas six miss give best.
+TXN1227,05/22/2025,CUST310,Eric Patrick,Other,56,Butwal,Smartphone,iPhone 13 Mini,PID5842,iPhone 13 Mini 512GB,1,142741,15,121329.85,Khalti,Delivered,05/26/2025,5,Against gas body son.
+TXN1228,05/12/2025,CUST172,Kristen Rivera,Other,18,Pokhara,Accessory,Silicone Case,PID7337,Silicone Case,3,16790,10,45333,Credit,Delivered,05/16/2025,1,When discussion if continue policy it.
+TXN1229,05/02/2025,CUST117,Sonya Cole,Other,22,Kathmandu,Accessory,Silicone Case,PID1652,Silicone Case,1,28863,15,24533.55,Credit,Delivered,05/07/2025,4,Home relate day sell speak artist.
+TXN1230,05/05/2025,CUST533,Kimberly Diaz,Other,43,Kathmandu,Smartphone,iPhone 14,PID2369,iPhone 14 256GB,1,214035,5,203333.25,Card,Delivered,05/09/2025,5,Leader energy television month police.
+TXN1231,05/29/2025,CUST749,James Wilson,Other,59,Kathmandu,Accessory,Lightning Cable,PID4909,Lightning Cable,1,11011,0,11011,Khalti,Delivered,06/03/2025,5,Suddenly pay sport relationship father pass.
+TXN1232,05/05/2025,CUST156,Emily Allen,Female,60,Lalitpur,Smartphone,iPhone 15 Pro Max,PID3248,iPhone 15 Pro Max 512GB,1,122947,15,104504.95,eSewa,Delivered,05/08/2025,2,Consumer really memory industry.
+TXN1233,05/07/2025,CUST480,Jenny Tucker,Male,35,Kathmandu,Smartphone,iPhone 14,PID8034,iPhone 14 256GB,3,96743,10,261206.1,Credit,Delivered,05/11/2025,4,Really population yourself never majority cell fire.
+TXN1234,05/22/2025,CUST623,Sharon Crane,Female,21,Biratnagar,Smartphone,iPhone 14,PID3577,iPhone 14 256GB,1,230447,0,230447,Card,Delivered,05/23/2025,1,Carry spring white measure manager range indeed.
+TXN1235,05/22/2025,CUST979,Bradley Johnson DDS,Male,33,Kathmandu,Accessory,AirPods Pro,PID7274,AirPods Pro,1,8864,0,8864,Credit,Pending,05/24/2025,4,Allow different eye sit not.
+TXN1236,05/25/2025,CUST329,Ashley Wilson,Female,33,Biratnagar,Accessory,AirPods Pro,PID2276,AirPods Pro,3,15216,0,45648,Credit,Delivered,05/26/2025,2,Statement happen state among rest national wrong.
+TXN1237,05/05/2025,CUST328,Martha Wright,Other,20,Biratnagar,Smartphone,iPhone 13 Mini,PID5625,iPhone 13 Mini 256GB,2,102645,15,174496.5,Cash,Delivered,05/08/2025,5,Last give stage.
+TXN1238,05/22/2025,CUST903,Autumn Cain,Female,57,Lalitpur,Accessory,AirPods Pro,PID9083,AirPods Pro,1,27001,5,25650.95,Card,Delivered,05/26/2025,1,Specific onto go represent plan.
+TXN1239,05/09/2025,CUST338,Rachel Li,Other,40,Kathmandu,Accessory,MagSafe Charger,PID7164,MagSafe Charger,3,26829,10,72438.3,Cash,Delivered,05/11/2025,4,Now mother others collection.
+TXN1240,05/15/2025,CUST603,Derek Hodge,Male,27,Pokhara,Smartphone,iPhone 15 Pro Max,PID4792,iPhone 15 Pro Max 512GB,2,177646,15,301998.2,Cash,Delivered,05/20/2025,2,Career seek in arrive.
+TXN1241,05/14/2025,CUST752,Beth Cline,Female,22,Butwal,Smartphone,iPhone 13 Mini,PID3141,iPhone 13 Mini 128GB,2,148417,10,267150.6,Khalti,Delivered,05/17/2025,3,Chair focus easy such hotel.
+TXN1242,05/07/2025,CUST563,Debra Perry,Female,32,Kathmandu,Smartphone,iPhone 15,PID2785,iPhone 15 128GB,1,123089,15,104625.65,Khalti,Delivered,05/08/2025,5,Away some shoulder idea seek reason theory.
+TXN1243,05/23/2025,CUST466,Erin Smith,Male,46,Pokhara,Accessory,AirPods Pro,PID2964,AirPods Pro,1,8164,10,7347.6,Credit,Delivered,05/26/2025,2,Room learn professional group.
+TXN1244,05/04/2025,CUST193,Jennifer Donaldson,Other,33,Pokhara,Accessory,MagSafe Charger,PID5896,MagSafe Charger,2,29872,5,56756.8,Cash,Cancelled,05/27/2025,4,Manager follow exist natural candidate.
+TXN1245,05/24/2025,CUST669,Stephanie Farmer,Other,53,Lalitpur,Smartphone,iPhone 13 Mini,PID2669,iPhone 13 Mini 128GB,1,83134,0,83134,Card,Delivered,05/28/2025,3,Between six least.
+TXN1246,05/07/2025,CUST802,Brooke Bryant,Other,59,Kathmandu,Accessory,MagSafe Charger,PID1357,MagSafe Charger,1,9479,15,8057.15,Card,Delivered,05/10/2025,1,Dark read car practice city usually.
+TXN1247,05/14/2025,CUST143,Isaac Miller,Female,21,Lalitpur,Accessory,Lightning Cable,PID9128,Lightning Cable,1,15541,15,13209.85,Card,Delivered,05/16/2025,3,Appear personal rise sense.
+TXN1248,05/21/2025,CUST386,Michele Smith,Female,27,Kathmandu,Smartphone,iPhone 14,PID9173,iPhone 14 256GB,3,205575,0,616725,Cash,Delivered,05/23/2025,4,Back order mind knowledge account gas building.
+TXN1249,05/21/2025,CUST304,Karen Perez,Other,51,Lalitpur,Smartphone,iPhone 13 Mini,PID6883,iPhone 13 Mini 256GB,3,207055,10,559048.5,Credit,Delivered,05/25/2025,3,Room bill finish thing.
